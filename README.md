@@ -1,38 +1,18 @@
-# Hi, I'm Mot Kimlang
+# 💫 About Me:
+ 👋 About Me<br><br>Hi! I'm Kimlang , a second-year Administration student with a passion for becoming a Full Stack Developer. I enjoy building modern, responsive websites and continuously improving my coding skills through hands-on projects.<br><br>I'm currently learning **HTML, CSS, JavaScript, Python, Flask, SQLite, Git, and GitHub** while building real-world applications to strengthen my portfolio.<br><br>My goal is to become a professional full-stack developer by creating clean, user-friendly, and practical web applications.<br><br>Outside of coding, I enjoy exploring UI/UX design, learning new technologies, and turning ideas into functional websites.<br>
 
-I'm a second-year Administration student with a passion for becoming a full-stack developer. I enjoy building modern, responsive websites and continuously improving my coding skills through hands-on projects.
 
-I'm currently learning **HTML, CSS, JavaScript, Python, Flask, SQLite, Git, and GitHub** while building real-world applications to strengthen my portfolio.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/18rffrExrm/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kitty_kim3?igsh=MTdsOXhkOWV2aWR2bA%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mot-kimlang-894670411?utm_source=share_via&utm_content=profile&utm_medium=member_ios) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@www.tiktok.com/@langlang44444) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/langlangxmv?s=21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:motkimlang76@gmail.com) 
 
-My goal is to become a professional full-stack developer by creating clean, user-friendly, and practical web applications.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=motkimlang76-tech&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=motkimlang76-tech&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=motkimlang76-tech&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Outside of coding, I enjoy exploring UI/UX design, learning new technologies, and turning ideas into functional websites.
+---
+[![](https://komarev.com/ghpvc/?username=motkimlang76-tech&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Socials
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](#)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-
-## Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## GitHub Stats
-
-![Mot Kimlang's GitHub Stats](./assets/github-stats.svg)
-
-<!-- profile-readme: active -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

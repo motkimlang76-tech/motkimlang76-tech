@@ -1,0 +1,55 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mot Kimlang GitHub Profile Banner</title>
+  <desc id="desc">A banner for Mot Kimlang, full-stack developer in progress.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.48" stop-color="#10233F"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="155" y1="42" x2="1070" y2="318" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F97316"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="26"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <path d="M0 292C132 226 233 253 362 288C533 335 637 308 771 236C916 158 1037 121 1200 174V360H0V292Z" fill="#0EA5E9" opacity="0.12"/>
+  <path d="M870 52C984 86 1075 179 1134 296" stroke="url(#accent)" stroke-width="18" stroke-linecap="round" opacity="0.55"/>
+  <path d="M96 254C213 150 329 113 476 138" stroke="url(#accent)" stroke-width="14" stroke-linecap="round" opacity="0.42"/>
+  <circle cx="1018" cy="100" r="72" fill="#38BDF8" opacity="0.16" filter="url(#soft)"/>
+  <circle cx="200" cy="252" r="96" fill="#F97316" opacity="0.13" filter="url(#soft)"/>
+
+  <g transform="translate(84 72)">
+    <rect width="130" height="130" rx="28" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+    <path d="M40 42H90V54H54V66H86V78H54V90H92V102H40V42Z" fill="#F97316"/>
+    <path d="M92 42L107 57L92 72L83.5 63.5L90 57L83.5 50.5L92 42Z" fill="#79C0FF"/>
+    <path d="M38 118H106" stroke="#22C55E" stroke-width="8" stroke-linecap="round"/>
+  </g>
+
+  <text x="252" y="126" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="800">Mot Kimlang</text>
+  <text x="254" y="176" fill="#A5F3FC" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Full-Stack Developer in Progress</text>
+  <text x="254" y="222" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="23">Building clean, responsive, user-friendly web applications</text>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">
+    <rect x="254" y="258" width="116" height="38" rx="19" fill="#F97316"/>
+    <text x="312" y="283" text-anchor="middle" fill="#111827">HTML</text>
+    <rect x="384" y="258" width="104" height="38" rx="19" fill="#2563EB"/>
+    <text x="436" y="283" text-anchor="middle" fill="#FFFFFF">CSS</text>
+    <rect x="502" y="258" width="142" height="38" rx="19" fill="#FACC15"/>
+    <text x="573" y="283" text-anchor="middle" fill="#111827">JavaScript</text>
+    <rect x="658" y="258" width="118" height="38" rx="19" fill="#3776AB"/>
+    <text x="717" y="283" text-anchor="middle" fill="#FFFFFF">Python</text>
+    <rect x="790" y="258" width="94" height="38" rx="19" fill="#0F172A"/>
+    <text x="837" y="283" text-anchor="middle" fill="#FFFFFF">Flask</text>
+  </g>
+
+  <g transform="translate(982 232)" opacity="0.9">
+    <path d="M43 0L53.2 30.8H85.8L59.4 49.6L69.6 80.6L43 61.4L16.4 80.6L26.6 49.6L0.2 30.8H32.8L43 0Z" fill="#FACC15"/>
+    <path d="M122 38L128.8 58.5H150.4L132.9 71L139.7 91.6L122 78.8L104.3 91.6L111.1 71L93.6 58.5H115.2L122 38Z" fill="#38BDF8"/>
+  </g>
+</svg>

@@ -1,4 +1,4 @@
-![Mot Kimlang GitHub Profile Banner](./assets/profile-banner.svg)
+![Mot Kimlang GitHub Profile Banner](./assets/profile-banner-clean.svg)
 
 # 💫 About Me:
  👋 About Me<br><br>Hi! I'm Kimlang , a second-year Administration student with a passion for becoming a Full Stack Developer. I enjoy building modern, responsive websites and continuously improving my coding skills through hands-on projects.<br><br>I'm currently learning **HTML, CSS, JavaScript, Python, Flask, SQLite, Git, and GitHub** while building real-world applications to strengthen my portfolio.<br><br>My goal is to become a professional full-stack developer by creating clean, user-friendly, and practical web applications.<br> learning new technologies, and turning ideas into functional websites.<br>

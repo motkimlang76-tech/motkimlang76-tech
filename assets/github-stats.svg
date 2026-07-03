@@ -1,0 +1,34 @@
+<svg width="760" height="260" viewBox="0 0 760 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mot Kimlang's GitHub Stats</title>
+  <desc id="desc">A static GitHub stats card for Mot Kimlang.</desc>
+  <rect width="760" height="260" rx="12" fill="#0d1117"/>
+  <rect x="1" y="1" width="758" height="258" rx="11" stroke="#30363d" stroke-width="2"/>
+
+  <text x="36" y="54" fill="#79c0ff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Mot Kimlang's GitHub Stats</text>
+  <text x="36" y="88" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="15">Profile snapshot for motkimlang76-tech</text>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+    <text x="58" y="136" fill="#c9d1d9">Public Repositories</text>
+    <text x="336" y="136" fill="#79c0ff">17</text>
+    <text x="58" y="178" fill="#c9d1d9">Total Stars</text>
+    <text x="336" y="178" fill="#79c0ff">0</text>
+    <text x="58" y="220" fill="#c9d1d9">Core Languages</text>
+    <text x="336" y="220" fill="#79c0ff">5</text>
+  </g>
+
+  <g transform="translate(500 78)">
+    <circle cx="86" cy="86" r="66" fill="none" stroke="#21262d" stroke-width="12"/>
+    <circle cx="86" cy="86" r="66" fill="none" stroke="#79c0ff" stroke-width="12" stroke-linecap="round" stroke-dasharray="230 415" transform="rotate(-90 86 86)"/>
+    <text x="86" y="82" text-anchor="middle" fill="#79c0ff" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700">17</text>
+    <text x="86" y="112" text-anchor="middle" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="14">repos</text>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">
+    <rect x="466" y="205" width="72" height="24" rx="12" fill="#1f6feb"/>
+    <text x="502" y="222" text-anchor="middle" fill="#ffffff">HTML</text>
+    <rect x="546" y="205" width="66" height="24" rx="12" fill="#8957e5"/>
+    <text x="579" y="222" text-anchor="middle" fill="#ffffff">CSS</text>
+    <rect x="620" y="205" width="92" height="24" rx="12" fill="#d29922"/>
+    <text x="666" y="222" text-anchor="middle" fill="#0d1117">JavaScript</text>
+  </g>
+</svg>

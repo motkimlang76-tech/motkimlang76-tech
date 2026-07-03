@@ -33,6 +33,6 @@ Outside of coding, I enjoy exploring UI/UX design, learning new technologies, an
 
 ## GitHub Stats
 
-![Mot Kimlang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=motkimlang76-tech&show_icons=true&theme=github_dark&hide_border=true)
+![Mot Kimlang's GitHub Stats](./assets/github-stats.svg)
 
 <!-- profile-readme: active -->

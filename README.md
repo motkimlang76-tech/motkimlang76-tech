@@ -27,10 +27,13 @@ A responsive multi-page website built with HTML and CSS.
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## GitHub Stats
+## Currently Learning
 
-![Kimlang's GitHub stats](https://github-readme-stats.vercel.app/api?username=motkimlang76-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=motkimlang76-tech&theme=tokyonight&hide_border=true&layout=compact)
+- Frontend fundamentals with HTML, CSS, and JavaScript
+- Responsive website layouts for desktop and mobile
+- Git and GitHub for version control
+- Python, Flask, and SQLite for backend basics
+- Deploying projects online with Vercel
 
 ## Connect
 
